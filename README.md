@@ -4,6 +4,10 @@ Projeto desenvolvido para a disciplina de Algoritmos em Grafos utilizando a ling
 
 ---
 
+![Demonstração](assets/labirinto.gif)
+
+---
+
 # Sobre o Projeto
 
 O programa transforma um labirinto bidimensional em um grafo representado por matriz de adjacência. Cada célula livre do labirinto é tratada como um vértice, enquanto as conexões válidas entre células adjacentes representam as arestas.
