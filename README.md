@@ -4,7 +4,7 @@ Projeto desenvolvido para a disciplina de Algoritmos em Grafos utilizando a ling
 
 ---
 
-![Demonstração](assets/labirinto.gif)
+![Demonstração](assets/Labirinto.gif)
 
 ---
 
